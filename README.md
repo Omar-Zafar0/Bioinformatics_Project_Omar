@@ -13,5 +13,5 @@ Localization: PSORT, Genscript.
 Phylogenetics: MEGA, Clustal Omega.
 Interactions: STRING.
 
-Acknowledgeent: -
+Acknowledgement: -
 I would like to thank my instructor _Prof. Dr. Samina Shakeel_ for providing the guidance and resources necessary to complete this project.
