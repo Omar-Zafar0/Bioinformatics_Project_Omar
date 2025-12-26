@@ -1,0 +1,96 @@
+Results of Subprograms
+*** Warning: 1st aa is not methyonine
+
+PSG:  a new signal peptide prediction method
+      N-region:  length 0;  pos.chg 0;  neg.chg 0
+      H-region:  length 2263;  peak value   0.00
+      PSG score:  -4.40
+
+GvH:  von Heijne's method for signal seq. recognition
+      GvH score (threshold: -2.1):  -4.16
+      possible cleavage site: between 48 and 49
+
+>>> Seems to have no N-terminal signal peptide
+
+ALOM: Klein et al's method for TM region allocation
+      Init position for calculation: 1
+      Tentative number of TMS(s) for the threshold  0.5:   6
+      INTEGRAL    Likelihood =  0.21   Transmembrane  350 - 366
+      INTEGRAL    Likelihood = -0.00   Transmembrane  569 - 585
+      INTEGRAL    Likelihood = -0.37   Transmembrane  766 - 782
+      INTEGRAL    Likelihood =  0.42   Transmembrane 1473 -1489
+      INTEGRAL    Likelihood = -5.47   Transmembrane 1492 -1508
+      INTEGRAL    Likelihood = -3.77   Transmembrane 1509 -1525
+      PERIPHERAL  Likelihood =  1.01 (at 1810)
+      ALOM score:  -5.47  (number of TMSs: 6)
+
+MTOP: Prediction of membrane topology (Hartmann et al.)
+      Center position for calculation: 357
+      Charge difference: -1.0   C( 0.0) - N( 1.0)
+      N >= C: N-terminal side will be inside
+
+>>> membrane topology: type 3a
+
+MITDISC: discrimination of mitochondrial targeting seq
+      R content:       0       Hyd Moment(75):  1.31
+      Hyd Moment(95):  0.38    G content:     467
+      D/E content:     0       S/T content:   729
+      Score: -6.58
+
+Gavel: prediction of cleavage sites for mitochondrial preseq
+      cleavage site motif not found
+
+NUCDISC: discrimination of nuclear localization signals
+      pat4: none
+      pat7: none
+      bipartite: none
+      content of basic residues:   0.0%
+      NLS Score: -0.47
+
+KDEL: ER retention motif in the C-terminus: none
+
+ER Membrane Retention Signals: none
+
+SKL: peroxisomal targeting signal in the C-terminus: none
+
+SKL2: 2nd peroxisomal targeting signal:  none
+
+VAC: possible vacuolar targeting motif: none
+
+RNA-binding motif: none
+
+Actinin-type actin-binding motif:
+      type 1: none
+      type 2: none
+
+NMYR: N-myristoylation pattern : none
+
+Prenylation motif: none
+
+memYQRL: transport motif from cell surface to Golgi: none
+
+Tyrosines in the tail: none
+
+Dileucine motif in the tail: none
+
+checking 63 PROSITE DNA binding motifs:  none
+
+checking 71 PROSITE ribosomal protein motifs:  none
+
+checking 33 PROSITE prokaryotic DNA binding motifs:  none
+
+NNCN: Reinhardt's method for Cytplasmic/Nuclear discrimination
+      Prediction: cytoplasmic
+      Reliability: 55.5
+
+COIL: Lupas's algorithm to detect coiled-coil regions
+      total: 0 residues 
+
+Results of the k-NN Prediction
+
+k = 9/23
+
+	 52.2 %: endoplasmic reticulum
+	 26.1 %: mitochondrial
+	 17.4 %: nuclear
+	  4.3 %: vesicles of secretory system
