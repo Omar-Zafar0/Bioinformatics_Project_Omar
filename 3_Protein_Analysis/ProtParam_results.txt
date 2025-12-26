@@ -1,0 +1,88 @@
+HBB1_MOUSE (P02088)
+Description:
+Hemoglobin subunit beta-1 (Beta-1-globin) (Hemoglobin beta-1 chain) (Hemoglobin beta-major chain)
+Organism:
+Mus musculus (Mouse)
+The parameters have been computed for the following feature:
+FT   CHAIN  2  147  Hemoglobin subunit beta-1
+Considered sequence fragment:
+      1          11         21         31         41         51         
+      |          |          |          |          |          |          
+    1  VHLTDAEKA AVSCLWGKVN SDEVGGEALG RLLVVYPWTQ RYFDSFGDLS SASAIMGNAK    60
+   61 VKAHGKKVIT AFNDGLNHLD SLKGTFASLS ELHCDKLHVD PENFRLLGNM IVIVLGHHLG   120
+  121 KDFTPAAQAA FQKVVAGVAT ALAHKYH
+» Fasta
+>P02088|2-147
+VHLTDAEKAAVSCLWGKVNSDEVGGEALGRLLVVYPWTQRYFDSFGDLSSASAIMGNAKV
+KAHGKKVITAFNDGLNHLDSLKGTFASLSELHCDKLHVDPENFRLLGNMIVIVLGHHLGK
+DFTPAAQAAFQKVVAGVATALAHKYH
+
+Warning: All computation results shown below do not take into account any annotated post-translational modification.
+[Documentation / Reference]
+Number of amino acids: 146
+Theoretical pI: 7.26
+Molecular weight: 15708.99
+
+Amino acid composition: 
+Ala (A)  18	 12.3%
+Arg (R)   3	  2.1%
+Asn (N)   6	  4.1%
+Asp (D)   9	  6.2%
+Cys (C)   2	  1.4%
+Gln (Q)   3	  2.1%
+Glu (E)   5	  3.4%
+Gly (G)  13	  8.9%
+His (H)   9	  6.2%
+Ile (I)   4	  2.7%
+Leu (L)  17	 11.6%
+Lys (K)  11	  7.5%
+Met (M)   2	  1.4%
+Phe (F)   7	  4.8%
+Pro (P)   3	  2.1%
+Ser (S)   9	  6.2%
+Thr (T)   6	  4.1%
+Trp (W)   2	  1.4%
+Tyr (Y)   3	  2.1%
+Val (V)  14	  9.6%
+Pyl (O)   0	  0.0%
+Sec (U)   0	  0.0%
+
+ (B)   0	  0.0%
+ (Z)   0	  0.0%
+ (X)   0	  0.0%
+
+Total number of negatively charged residues (Asp + Glu): 14
+Total number of positively charged residues (Arg + Lys): 14
+
+Atomic composition:
+Carbon      C	       708
+Hydrogen    H	      1105
+Nitrogen    N	       195
+Oxygen      O	       202
+Sulfur      S	         4
+
+Formula: C708H1105N195O202S4
+Total number of atoms: 2214
+
+Extinction coefficients:
+Extinction coefficients are in units of  M-1 cm-1, at 280 nm measured in water.
+Ext. coefficient    15595
+Abs 0.1% (=1 g/l)   0.993, assuming all pairs of Cys residues form cystines
+
+
+
+Ext. coefficient    15470
+Abs 0.1% (=1 g/l)   0.985, assuming all Cys residues are reduced
+
+Estimated half-life:
+The N-terminal of the sequence considered is V (Val).
+The estimated half-life is: 100 hours (mammalian reticulocytes, in vitro).
+                            >20 hours (yeast, in vivo).
+                            >10 hours (Escherichia coli, in vivo).
+
+Instability index:
+The instability index (II) is computed to be 11.52
+This classifies the protein as stable.
+
+Aliphatic index: 96.23
+Grand average of hydropathicity (GRAVY):0.064
