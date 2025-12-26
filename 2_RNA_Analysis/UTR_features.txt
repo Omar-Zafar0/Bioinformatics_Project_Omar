@@ -1,0 +1,9 @@
+1. 5’ UTR Features (Leader Sequence)
+Kozak Consensus: Identified the sequence (gcc)gccRccAUGG (where R is a purine) surrounding the initiation codon.
+Significance: This sequence is highly conserved in mammalian beta-globin genes to ensure high-efficiency translation, which is critical for rapid hemoglobin synthesis in reticulocytes.
+Secondary Structure: Predicted a relatively "open" 5' UTR structure via RNAfold, facilitating easy access for the 43S pre-initiation complex.
+
+2. 3’ UTR Features (Trailer Sequence)
+Polyadenylation Signal: Found the canonical AAUAAA hexanucleotide motif.
+Significance: This signal is essential for the 3' end processing and the addition of the poly(A) tail, which dictates the exceptionally long half-life of globin mRNA (up to 48 hours).
+Cytoplasmic Polyadenylation Elements (CPEs): Detected U-rich sequences that may interact with binding proteins to regulate translation during erythropoiesis.
